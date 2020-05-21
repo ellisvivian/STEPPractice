@@ -1,4 +1,4 @@
-This is my file.
-Hello.
-I'm already learning a lot here.
-I am making changes to this file.
+# About Me
+
+This is my about me project. It's not *everything* about me, but it's a start. 
+
